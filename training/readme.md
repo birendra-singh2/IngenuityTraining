@@ -1,3 +1,5 @@
 # Read This
 
-> Create your folders for assignments here
+## Weekly trainings here
+
+> 25-09-2021: Guess the number game
