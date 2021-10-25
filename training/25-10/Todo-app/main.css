@@ -1,0 +1,35 @@
+*{
+    font: 14pt 'Arial Black';
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 7px 0px;
+}
+
+.del-btn{
+    padding: 0 50px;
+    background-color: beige;
+    border: 2px outset black;
+    cursor: pointer;
+    margin: 0px 20px;
+}
+
+.del-btn:hover {
+    background-color:bisque;
+    text-decoration: underline;
+}
+.del-btn:active {
+    background-color:bisque;
+    text-decoration: underline;
+    padding: 0px 50px 1px 50px;
+}
+
+.done {
+    text-decoration:line-through;
+    color:gray;
+}
